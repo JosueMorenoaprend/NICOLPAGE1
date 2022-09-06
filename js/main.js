@@ -20,7 +20,7 @@ function vali(){
             'success'
           );
           setTimeout(function(){
-            window.location.href = '../Principal/index.html'
+            window.location.href = 'https://josuemorenoaprend.github.io/NICOLPAGE2/'
           },2000);
         }
       })
